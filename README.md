@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1mvndE6cty-r97hx3OnxHH-5Pt6oOfTBb" width="100%"  height="400px" style="border-radius:50%;" />
+  <img src="https://drive.google.com/uc?export=view&id=1mvndE6cty-r97hx3OnxHH-5Pt6oOfTBb" width="100%"  height="200px" style="border-radius:50%;" />
 </p>
 
 ---
