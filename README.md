@@ -1,6 +1,6 @@
 <div align="center" style="width:100%;">
   <img src="https://i.pinimg.com/originals/d6/30/3e/d6303e92dbee0c1c287e7ac29f5a1ecc.jpg" 
-  style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Pallavi Banner" />
+  style="width:100%; max-width:800px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Pallavi Banner" />
 </div>
 
 <br>
