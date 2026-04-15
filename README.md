@@ -1,31 +1,35 @@
 <div align="center">
 
-# ✨ Hi there, I'm Pallavi! ✨
-### 💻 Creative Developer | 🎨 UI/UX Enthusiast | 🌸 Anime Fan
+<img src="https://i.imgur.com/your_anime_banner.png" width="100%" />
 
-<img src="https://path-to-your-anime-image.png" width="100%" alt="Pallavi's Banner" />
+# ⚡ Hey, I'm Pallavi Kumari! ⚡
+*Creative Developer & UI/UX Enthusiast*
 
 ---
 
-### 🌙 My Coding Universe
+### 🛠️ My Tech Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,figma,tailwind,bootstrap,git" />
 </p>
 
 ---
 
-### 📊 Training Stats
-<img src="https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+### 📈 Mission Brief
+| 🔭 Activity | 🎯 Goal |
+| :--- | :--- |
+| **Currently working on** | Scalable Web Architectures |
+| **Learning** | Advanced Animation Libraries (GSAP/Three.js) |
+| **Passions** | Clean Code & Minimalist UI |
 
 ---
 
-### 🍵 Current Quest
-- 🔭 I’m currently working on **Modernizing Web Experiences**
-- 🌱 I’m currently learning **Advanced UI/UX Animation**
-- ⚡ **Fun fact:** Just like a protagonist, I never give up on a bug!
+### 📊 System Status
+<img src="https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+
+---
+
+### 🤝 Let's Connect
+[LinkedIn](your-link) • [Portfolio](your-link) • [Instagram](your-link)
 
 </div>
