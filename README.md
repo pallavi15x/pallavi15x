@@ -1,6 +1,6 @@
 
 <div align="center" style="width:100%;">
-  <img src="https://i.ibb.co/m568Y8v/anime-dev-banner.png" style="width:100%; max-width:1100px; border-radius:18px;" alt="Pallavi Banner" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Anime/girl_with_headphones.gif" width="100%" style="border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Banner" />
 </div>
 
 <br>
