@@ -1,6 +1,6 @@
 
 <div align="center" style="width:100%;">
-  <img src="your-banner.png" style="width:100%; max-width:1100px; border-radius:18px;" alt="Pallavi's Banner" />
+  <img src="https://i.ibb.co/m568Y8v/anime-dev-banner.png" style="width:100%; max-width:1100px; border-radius:18px;" alt="Pallavi Banner" />
 </div>
 
 <br>
