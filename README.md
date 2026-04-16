@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=R2chc2iy&id=C7A908573C0A308968B052763CD9B2B6B47C717B&thid=OIP.R2chc2iyVN4fujkhpVc5aQHaDt&mediaurl=https%3a%2f%2fmedia.istockphoto.com%2fid%2f1056245624%2fvector%2fblack-3d-developer-background-with-web-symbols.jpg%3fs%3d170667a%26w%3d0%26k%3d20%26c%3daT5AQ9_W7X4Vr3ErP4IqlXaTrnMWZR14I89QCgjMxTY%3d&exph=294&expw=588&q=web+developer+black+image+width+maximunm+and+height+small&FORM=IRPRST&ck=5659E6A19746BD8EC999E34BEF644A42&selectedIndex=9&itb=0"width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=PALLAVI%20KUMARI&fontSize=80&fontAlignY=50&fontColor=00D4FF&animation=glitch" width="100%" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=BD00FF&center=true&vCenter=true&width=600&height=60&lines=UI%2FUX_ARCHITECT;PHP_FULLSTACK_ENGINEER;[SYSTEM_STATUS:_ACTIVE];DESIGNING_THE_FUTURE" alt="Typing SVG" />
 </div>
@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="assets/Banner.png.jpeg" width="100%" style="border-radius:20px; border: 2px solid #00D4FF; box-shadow: 0 0 20px rgba(0, 212, 255, 0.4);" />
+  <img src="https://thumbs.dreamstime.com/z/black-d-developer-background-web-symbols-vector-illustration-black-d-developer-background-web-symbols-119310093.jpg" width="700" style="border-radius:20px; border: 2px solid #00D4FF; box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);" />
 </div>
 
 <br>
@@ -75,7 +75,7 @@
   <img src="https://komarev.com/ghpvc/?username=pallavi15x&label=SCAN_COUNT&color=00D4FF&style=flat-square" />
   
   <br>
-  <code>[SYSTEM_STATUS: OPTIMIZED] _</code>
+  <code>[TERMINAL_CLOSED] _</code>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=60&section=footer" width="100%" />
 </div>
