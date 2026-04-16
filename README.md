@@ -31,7 +31,7 @@
         <table width="100%">
           <tr><td><b>Visual UX</b></td><td>🟢 OPTIMIZED</td><td>98%</td></tr>
           <tr><td><b>Backend Logic</b></td><td>🔵 STABLE</td><td>94%</td></tr>
-          <tr><td><b>Creative Flow</b></td><td>🟣 ACTIVE</td><td>100%</td></tr>
+          <tr><td><b>System Coffee</b></td><td>🔴 CRITICAL</td><td>05%</td></tr>
         </table>
       </details>
       <br>
@@ -53,28 +53,10 @@
 
 <br>
 
-<h3 align="center" style="color: #00D4FF;">📂 PROTOTYPE_REGISTRY</h3>
+<h3 align="center" style="color: #00D4FF;">🏆 ACHIEVEMENT_UNLOCKED</h3>
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pallavi15x&repo=pallavi15x&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00D4FF&text_color=BD00FF" />
-      </td>
-      <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=pallavi15x&theme=tokyonight&no-bg=true&margin-w=15&column=2" height="150" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=pallavi15x&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%" />
 </div>
-
----
-
-<h3 align="center" style="color: #00D4FF;">📈 PRODUCTIVITY_PULSE</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavi15x&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=BD00FF" width="100%" />
-</div>
-
-<br>
 
 ---
 
