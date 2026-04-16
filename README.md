@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/run?status=true&user=YOUR_SPOTIFY_ID" alt="Spotify" width="100%" style="border-radius:20px; border: 2px solid #ff69b4;" />
+  <img src="assets/Banner.png.jpeg" width="100%" style="border-radius:20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" alt="Pallavi Banner" />
 
   <br>
   
-  <h1>✨ 𝓟𝓪𝓵𝓵𝓪𝓿𝓲 𝓚𝓾𝓶𝓪𝓻𝓲 ✨</h1>
-  <h3>⚡ Creative Technologist | UI/UX Architect | PHP Explorer ⚡</h3>
+  <h1>✨ 𝓟𝓪𝓵𝓵𝓪𝓋𝓲 𝓚𝓾𝓶𝓪𝓻𝓲 ✨</h1>
+  <h3>🚀 Creative Developer | UI/UX Enthusiast | Future Tech Builder</h3>
 
   <p align="center">
     <i>"Transforming complex logic into elegant, human-centric designs."</i>
   </p>
   
   <img src="https://img.shields.io/badge/Status-Innovating-ff00ff?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Vibe-Aesthetic_Code-777BB4?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Main_Stack-PHP%20%26%20JS-777BB4?style=for-the-badge" />
 </div>
 
 <br>
 
 ---
 
-### 🌌 The Lab (Current Focus)
-- 🧪 **Researching:** Advanced Motion UI and Micro-interactions.
-- 🛠️ **Building:** Scalable web architectures with high-fidelity aesthetics.
-- 📚 **Learning:** Expanding from PHP into the world of Creative Coding.
+### 🌌 The Lab (What I'm Building)
+- 🎨 **Visual Storyteller:** Creating interfaces that blend aesthetics with functionality.
+- 🧪 **Researching:** Deep-diving into Advanced Motion UI and Micro-interactions.
+- 🛠️ **Current Focus:** Scalable web architectures and modern design systems.
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 System Activity (The Unique Twist)
+### 📊 Unique Insights (Dynamic)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavi15x&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=ff69b4" width="100%" />
 </div>
@@ -47,15 +47,17 @@
 ### 📬 Establish Contact
 <div align="center">
   <a href="mailto:pallavikumari15102007@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pallavi15x&label=Profile%20Views&color=ff69b4&style=flat" alt="visitor counter" />
+  <br>
   <code>Console.log("Let's build something magical!");</code>
 </div>
