@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Anime/anime_girl_coding.gif" width="100%" style="border-radius:20px; border: 2px solid #ff69b4;" />
+  <img src="https://novatorem-spotify-readme.vercel.app/api/run?status=true&user=YOUR_SPOTIFY_ID" alt="Spotify" width="100%" style="border-radius:20px; border: 2px solid #ff69b4;" />
 
   <br>
   
