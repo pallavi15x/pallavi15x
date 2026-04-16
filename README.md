@@ -9,7 +9,8 @@
 <div align="center">
   <img src="https://th.bing.com/th/id/OIP.Z9LgrFyqCSodS_KeK6TemQHaDt?w=310&h=175&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" 
        width="100%" 
-       style="max-width: 800px; border-radius: 20px; border: 1px solid #30363d; filter: contrast(1.1) brightness(0.9); box-shadow: 0 15px 40px rgba(0,212,255,0.15);" 
+       height="280" 
+       style="object-fit: cover; border-radius: 24px; border: 1px solid #30363d; filter: contrast(1.1) brightness(0.85); box-shadow: 0 20px 50px rgba(0,0,0,0.5);" 
        alt="Developer Banner" />
 </div>
 
@@ -37,8 +38,6 @@
           <tr><td><b>Creative Flow</b></td><td>🟣 ACTIVE</td><td>100%</td></tr>
         </table>
       </details>
-      <br>
-      <p><i>"Engineering interfaces where aesthetics meet complex logic."</i></p>
     </td>
     <td width="45%" valign="top" align="right">
       <h3 style="color: #00D4FF;">📊 ANALYTICS_FEED</h3>
