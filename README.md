@@ -7,13 +7,13 @@
 <br>
 
 <div align="center">
-  <img src="https://thumbs.dreamstime.com/z/black-d-developer-background-web-symbols-vector-illustration-black-d-developer-background-web-symbols-119310093.jpg" width="700" style="border-radius:20px; border: 2px solid #00D4FF; box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);" />
+  <img src="https://thumbs.dreamstime.com/z/black-d-developer-background-web-symbols-vector-illustration-black-d-developer-background-web-symbols-119310093.jpg" width="100%" style="max-width: 850px; border-radius: 24px; border: 1px solid #30363d; filter: contrast(1.1) brightness(0.9); box-shadow: 0 20px 50px rgba(0,0,0,0.5);" />
 </div>
 
 <br>
 
 <div align="center" style="background-color: #0D1117; border-radius: 20px; padding: 25px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-  <h3 align="left" style="color: #00D4FF; font-family: monospace;"> 📂 SYSTEM_CONTRIBUTIONS_3D_RENDER</h3>
+  <h3 align="left" style="color: #00D4FF; font-family: monospace; letter-spacing: 1px;"> 📂 SYSTEM_CONTRIBUTIONS_3D_RENDER</h3>
   <img src="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake-dark.svg" alt="3D Snake City" width="100%" />
 </div>
 
@@ -31,7 +31,7 @@
         <table width="100%">
           <tr><td><b>Visual UX</b></td><td>🟢 OPTIMIZED</td><td>98%</td></tr>
           <tr><td><b>Backend Logic</b></td><td>🔵 STABLE</td><td>94%</td></tr>
-          <tr><td><b>System Coffee</b></td><td>🔴 CRITICAL</td><td>05%</td></tr>
+          <tr><td><b>Creative Flow</b></td><td>🟣 ACTIVE</td><td>100%</td></tr>
         </table>
       </details>
       <br>
@@ -75,7 +75,7 @@
   <img src="https://komarev.com/ghpvc/?username=pallavi15x&label=SCAN_COUNT&color=00D4FF&style=flat-square" />
   
   <br>
-  <code>[TERMINAL_CLOSED] _</code>
+  <code>[SYSTEM_READY] _</code>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=60&section=footer" width="100%" />
 </div>
