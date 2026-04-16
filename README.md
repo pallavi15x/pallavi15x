@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="assets/Banner.png" width="100%" style="border-radius:20px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0,212,255,0.2);" />
+  <img src="assets/Banner.jpeg" width="100%" style="border-radius:20px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0,212,255,0.2);" />
 </div>
 
 <br>
