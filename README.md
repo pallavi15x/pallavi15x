@@ -1,16 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=PALLAVI%20KUMARI&fontSize=80&fontAlignY=50&fontColor=00D4FF&animation=glitch" width="100%" />
   
-  <img src="https://th.bing.com/th/id/OIP.Z9LgrFyqCSodS_KeK6TemQHaDt?w=310&h=175&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=BD00FF&center=true&vCenter=true&width=600&height=60&lines=UI%2FUX_ARCHITECT;PHP_FULLSTACK_ENGINEER;[SYSTEM_STATUS:_ACTIVE];DESIGNING_THE_FUTURE" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://thumbs.dreamstime.com/z/black-d-developer-background-web-symbols-vector-illustration-black-d-developer-background-web-symbols-119310093.jpg" 
+  <img src="https://th.bing.com/th/id/OIP.Z9LgrFyqCSodS_KeK6TemQHaDt?w=310&h=175&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" 
        width="100%" 
-       height="300" 
-       style="object-fit: cover; border-radius: 24px; border: 1px solid #30363d; filter: contrast(1.1) brightness(0.9); box-shadow: 0 20px 50px rgba(0,0,0,0.5);" 
+       style="max-width: 800px; border-radius: 20px; border: 1px solid #30363d; filter: contrast(1.1) brightness(0.9); box-shadow: 0 15px 40px rgba(0,212,255,0.15);" 
        alt="Developer Banner" />
 </div>
 
@@ -38,6 +37,8 @@
           <tr><td><b>Creative Flow</b></td><td>🟣 ACTIVE</td><td>100%</td></tr>
         </table>
       </details>
+      <br>
+      <p><i>"Engineering interfaces where aesthetics meet complex logic."</i></p>
     </td>
     <td width="45%" valign="top" align="right">
       <h3 style="color: #00D4FF;">📊 ANALYTICS_FEED</h3>
