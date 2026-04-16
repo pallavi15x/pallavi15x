@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=PALLAVI%20KUMARI&fontSize=80&fontAlignY=50&fontColor=00D4FF&animation=glitch" width="100%" />
+  <img src="https://thumbs.dreamstime.com/b/developer-gold-text-black-background-d-rendered-royalty-free-stock-picture-image-can-be-used-online-website-banner-87919210.jpg" width="100%" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=BD00FF&center=true&vCenter=true&width=600&height=60&lines=UI%2FUX_ARCHITECT;PHP_FULLSTACK_ENGINEER;[SYSTEM_STATUS:_ACTIVE];DESIGNING_THE_FUTURE" alt="Typing SVG" />
 </div>
