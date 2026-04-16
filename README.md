@@ -7,7 +7,11 @@
 <br>
 
 <div align="center">
-  <img src="https://thumbs.dreamstime.com/z/black-d-developer-background-web-symbols-vector-illustration-black-d-developer-background-web-symbols-119310093.jpg" width="100%" style="max-width: 850px; border-radius: 24px; border: 1px solid #30363d; filter: contrast(1.1) brightness(0.9); box-shadow: 0 20px 50px rgba(0,0,0,0.5);" />
+  <div style="width: 100%; max-width: 900px; height: 320px; overflow: hidden; border-radius: 24px; border: 1px solid #30363d; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
+    <img src="https://thumbs.dreamstime.com/z/black-d-developer-background-web-symbols-vector-illustration-black-d-developer-background-web-symbols-119310093.jpg" 
+         style="width: 100%; margin-top: -20px; filter: contrast(1.1) brightness(0.9);" 
+         alt="Developer Banner" />
+  </div>
 </div>
 
 <br>
@@ -34,8 +38,6 @@
           <tr><td><b>Creative Flow</b></td><td>🟣 ACTIVE</td><td>100%</td></tr>
         </table>
       </details>
-      <br>
-      <p><i>"Engineering interfaces where aesthetics meet complex logic."</i></p>
     </td>
     <td width="45%" valign="top" align="right">
       <h3 style="color: #00D4FF;">📊 ANALYTICS_FEED</h3>
@@ -53,29 +55,8 @@
 
 <br>
 
-<h3 align="center" style="color: #00D4FF;">🏆 ACHIEVEMENT_UNLOCKED</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pallavi15x&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <h3 style="color: #BD00FF;">📮 ESTABLISH_COMMUNICATION</h3>
-  
-  <a href="mailto:pallavikumari15102007@gmail.com">
-    <img src="https://img.shields.io/badge/SEND_SIGNAL-00D4FF?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://linkedin.com/in/pallavi15x">
-    <img src="https://img.shields.io/badge/NEURAL_LINK-BD00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <br><br>
-  
   <img src="https://komarev.com/ghpvc/?username=pallavi15x&label=SCAN_COUNT&color=00D4FF&style=flat-square" />
-  
-  <br>
-  <code>[SYSTEM_READY] _</code>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=60&section=footer" width="100%" />
 </div>
