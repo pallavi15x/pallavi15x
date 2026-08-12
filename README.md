@@ -1,16 +1,11 @@
-
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7000FF&height=220&section=header&text=PALLAVI%20KUMARI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
-
-`FULL-STACK DEVELOPER & SOFTWARE ARCHITECT`
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=System.init(%22Pallavi_Kumari%22);Building+Scalable+Web+Applications;Writing+Clean%2C+Maintainable+Code;Architecting+Modern+Full-Stack+Solutions)](https://git.io/typing-svg)
-
-<br/>
+```text
+  ____  ___   _     _        ___  _   _ ___   _  ___  ____  ___ _____ _____ 
+ |  _ \/ _ \ | |   | |      / _ \| | | |_ _| | |/ _ \|  _ \|_ _| ____|  ___|
+ | |_) / /_\ \| |   | |     / /_\ \ |_| || |  | | | | | |_) || ||  _| |  _|_ 
+ |  __/ _   _ | |___| |___ / _   _ \  _  || |  | | |_| |  _ < | || |___| |___|
+ |_| |_| |_|_|_____|_____|_| |_|_|_| |_|___| |_|\___/|_| \_\___|_____|_____|
 
 <!-- Glowing Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavi-kumari-9864b8380)
