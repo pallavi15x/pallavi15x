@@ -63,11 +63,13 @@
 
 ### 🐍 Contribution Activity Grid
 
-<div align="center">
-  <img src="https://snk-gen.vercel.app/api/snake?username=pallavi15x&theme=dark" alt="Snake Animation" width="100%" />
-</div>
-
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### 🌐 Direct Connection Nodes
 
