@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Cyber-Terminal Header Card -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F0FF&center=true&vcenter=true&width=800&lines=%3F%20PALLAVI%20KUMARI%20%3F;FULL-STACK%20DEVELOPER;SOFTWARE%20ARCHITECT;SECURITY%20%26%20SYSTEMS" alt="Header Banner" />
+<!-- 3D Waving Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7000FF&height=220&section=header&text=PALLAVI%20KUMARI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="3D Header Banner" />
+
+`FULL-STACK DEVELOPER` • `SOFTWARE ARCHITECT` • `SECURITY & SYSTEMS`
 
 <br/>
 
