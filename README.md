@@ -1,19 +1,24 @@
 <div align="center">
 
-# ⚡ PALLAVI KUMARI ⚡
-`FULL-STACK DEVELOPER & SOFTWARE ARCHITECT`
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7000FF&height=220&section=header&text=PALLAVI%20KUMARI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=System.init(%22Pallavi_Kumari%22);Building+Scalable+Web+Applications;Writing+Clean%2C+Maintainable+Code;Architecting+Modern+Full-Stack+Solutions)](https://git.io/typing-svg)
+`FULL-STACK DEVELOPER & SOFTWARE ARCHITECT`
 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=System.init(%22Pallavi_Kumari%22);Building+Scalable+Web+Applications;Writing+Clean%2C+Maintainable+Code;Architecting+Modern+Full-Stack+Solutions)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Glowing Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavi-kumari-9864b8380)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavikumari15102007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=firefox&logoColor=black)](https://github.com/pallavi15x/personal-portfolio)
 
----
+<br/><br/>
 
-### 🏆 GitHub Trophy Cabinet
+<!-- Trophy Cabinet -->
 <img src="https://github-profile-trophies.vercel.app/?username=pallavi15x&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Trophies" />
 
 </div>
@@ -24,8 +29,8 @@
 
 ```text
 ├── Name       : Pallavi Kumari
-├── Role       : Full-Stack Engineer & Systems Architect
-├── Core Tech  : Node.js, TypeScript, Python, Cyber Security
+├── Role       : Full-Stack Engineer & Security Architect
+├── Core Stack : Node.js | TypeScript | Python | Security
 ├── OS         : Linux / Windows
 └── Philosophy : "Writing code, breaking it, debugging it — becoming better with every fix."
 ```
