@@ -24,15 +24,10 @@
 ```
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity Overview
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true)" alt="GitHub Stats" width="48%" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Languages" width="48%" />
-  
-  <br/><br/>
-  
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=pallavi15x&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=pallavi15x&theme=tokyonight&hide_border=true)" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavi15x&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
