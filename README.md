@@ -24,6 +24,19 @@
 ```
 ---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true)" alt="GitHub Stats" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Languages" width="48%" />
+  
+  <br/><br/>
+  
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=pallavi15x&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=pallavi15x&theme=tokyonight&hide_border=true)" alt="GitHub Streak" />
+</div>
+
+---
+
 ### ⚙️ Tech Stack & Interactive Tools
 
 <p align="left">
@@ -52,6 +65,14 @@
 | ⚡ **VELORA** | Web Application | JavaScript, Web APIs | [Explore](https://github.com/pallavi15x/VELORA) |
 
 ---
+
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
 
 ### 🐍 Contribution Activity Grid
 
