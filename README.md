@@ -22,3 +22,59 @@
 ├── OS         : Linux / Windows
 └── Philosophy : "Writing code, breaking it, debugging it — becoming better with every fix."
 ```
+---
+
+### ⚙️ Tech Stack & Interactive Tools
+
+<p align="left">
+  <b>Core Languages:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,py&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Frameworks & Tools:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,ps,git,github,nodejs&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+---
+
+### 🚀 Key Repositories Matrix
+
+| Project | Domain | Architecture | Access |
+| :--- | :--- | :--- | :---: |
+| 🛡️ **aegis2.0** | Cyber Security / Systems | JavaScript, Node.js | [Explore](https://github.com/pallavi15x/aegis2.0) |
+| 🚑 **Save-a-Life** | Emergency & HealthTech | JavaScript, HTML5, CSS3 | [Explore](https://github.com/pallavi15x/Save-a-Life) |
+| 🌐 **personal-portfolio** | Frontend Architecture | TypeScript, HTML5 | [Explore](https://github.com/pallavi15x/personal-portfolio) |
+| ⚡ **VELORA** | Web Application | JavaScript, Web APIs | [Explore](https://github.com/pallavi15x/VELORA) |
+
+---
+
+### 🐍 Contribution Activity Grid
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<div align="center">
+
+### 🌐 Direct Connection Nodes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavi-kumari-9864b8380)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavikumari15102007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=firefox&logoColor=black)](https://github.com/pallavi15x/personal-portfolio)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pallavi15x&color=00f0ff&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
