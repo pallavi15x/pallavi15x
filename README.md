@@ -8,13 +8,19 @@
 ---
 
 ### 🏆 GitHub Trophy Cabinet
-<img src="https://github-profile-trophies.vercel.app/?username=pallavi15x&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Trophies" />
+<img src="[https://github-profile-trophies.vercel.app/?username=pallavi15x&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true](https://github-profile-trophies.vercel.app/?username=pallavi15x&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true)" alt="Trophies" />
 
 </div>
 
 ---
 
 ### 💻 System Overview
+
+```text
+├── Name       : Pallavi Kumari
+├── Focus      : Full-Stack Engineering, Security & Systems
+├── OS         : Linux / Windows
+└── Philosophy : "Writing code, breaking it, debugging it — becoming better with every fix."
 
 
 
