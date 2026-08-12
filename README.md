@@ -3,7 +3,13 @@
 # ⚡ PALLAVI KUMARI ⚡
 `FULL-STACK DEVELOPER & SOFTWARE ARCHITECT`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=System.init(%22Pallavi_Kumari%22);Building+Scalable+Web+Applications;Writing+Clean%2C+Maintainable+Code;Architecting+Modern+Full-Stack+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=System.init(%22Pallavi_Kumari%22);Building+Scalable+Web+Applications;Writing+Clean%2C+Maintainable+Code;Architecting+Modern+Full-Stack+Solutions)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavi-kumari-9864b8380)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavikumari15102007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=firefox&logoColor=black)](https://github.com/pallavi15x/personal-portfolio)
 
 ---
 
@@ -18,7 +24,8 @@
 
 ```text
 ├── Name       : Pallavi Kumari
-├── Focus      : Full-Stack Engineering, Security & Systems
+├── Role       : Full-Stack Engineer & Systems Architect
+├── Core Tech  : Node.js, TypeScript, Python, Cyber Security
 ├── OS         : Linux / Windows
 └── Philosophy : "Writing code, breaking it, debugging it — becoming better with every fix."
 ```
