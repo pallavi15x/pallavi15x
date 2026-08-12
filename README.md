@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Hi%2C+I'm+Pallavi+Kumari+%F0%9F%90%A7;Full-Stack+Web+Developer;Building+Scalable+Web+Apps;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -14,12 +13,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true" alt="Pallavi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi15x&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=dark&hide_border=true" alt="Pallavi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
