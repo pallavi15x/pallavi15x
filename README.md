@@ -13,8 +13,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Pallavi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight" alt="Pallavi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
