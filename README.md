@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -22,6 +23,17 @@
 <img src="https://github-profile-trophies.vercel.app/?username=pallavi15x&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Trophies" />
 
 </div>
+
+---
+
+### 💻 System Overview
+
+```text
+├── Name       : Pallavi Kumari
+├── Role       : Full-Stack Engineer & Security Architect
+├── Core Stack : Node.js | TypeScript | Python | Security
+├── OS         : Linux / Windows
+└── Philosophy : "Writing code, breaking it, debugging it — becoming better with every fix."
 
 ---
 
