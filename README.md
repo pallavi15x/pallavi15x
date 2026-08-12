@@ -61,6 +61,17 @@
 
 ---
 
+| ### 🐍 Contribution Activity Grid
+  50 | 
+  51 | <p align="center">
+  52 |   <picture>
+  53 |     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake-dark.svg">
+  54 |     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake.svg">
+  55 |     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake.svg">
+  56 |   </picture>
+  57 | </p>
+  
+
 <div align="center">
 
 ### 🌐 Direct Connection Nodes
