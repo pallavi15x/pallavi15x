@@ -1,62 +1,64 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=PALLAVI%20KUMARI&fontSize=80&fontAlignY=50&fontColor=00D4FF&animation=glitch" width="100%" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=BD00FF&center=true&vCenter=true&width=600&height=60&lines=UI%2FUX_ARCHITECT;PHP_FULLSTACK_ENGINEER;[SYSTEM_STATUS:_ACTIVE];DESIGNING_THE_FUTURE" alt="Typing SVG" />
-</div>
 
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Hi%2C+I'm+Pallavi+Kumari+%F0%9F%90%A7;Full-Stack+Web+Developer;Building+Scalable+Web+Apps;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://th.bing.com/th/id/OIP.Z9LgrFyqCSodS_KeK6TemQHaDt?w=310&h=175&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" 
-       width="100%" 
-       height="350" 
-       style="object-fit: cover; border-radius: 24px; border: 1px solid #30363d; filter: contrast(1.1) brightness(0.85); box-shadow: 0 20px 50px rgba(0,0,0,0.5);" 
-       alt="Developer Banner" />
-</div>
-
-<br>
-
-<div align="center" style="background-color: #0D1117; border-radius: 20px; padding: 25px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-  <h3 align="left" style="color: #00D4FF; font-family: monospace; letter-spacing: 1px;"> 📂 SYSTEM_CONTRIBUTIONS_3D_RENDER</h3>
-  <img src="https://raw.githubusercontent.com/pallavi15x/pallavi15x/output/github-contribution-grid-snake-dark.svg" alt="3D Snake City" width="100%" />
-</div>
-
-<br>
+<p align="center">
+  <em>Writing code, breaking it, debugging it — becoming better with every fix.</em>
+</p>
 
 ---
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3 style="color: #BD00FF;">🛰️ CORE_MISSION</h3>
-      <details open>
-        <summary><b>🛠 SYSTEM_DIAGNOSTIC.LOG</b></summary>
-        <br>
-        <table width="100%">
-          <tr><td><b>Visual UX</b></td><td>🟢 OPTIMIZED</td><td>98%</td></tr>
-          <tr><td><b>Backend Logic</b></td><td>🔵 STABLE</td><td>94%</td></tr>
-          <tr><td><b>Creative Flow</b></td><td>🟣 ACTIVE</td><td>100%</td></tr>
-        </table>
-      </details>
-    </td>
-    <td width="45%" valign="top" align="right">
-      <h3 style="color: #00D4FF;">📊 ANALYTICS_FEED</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=BD00FF" width="100%" />
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavi15x&show_icons=true&theme=tokyonight&hide_border=true" alt="Pallavi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi15x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi15x&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-<h3 align="center" style="color: #BD00FF;">🛠️ NEURAL_INTERFACE (Tech Stack)</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,figma,tailwind,bootstrap,mysql,git,vscode,ps&theme=dark" />
-</div>
+### 🚀 Featured Projects
 
-<br>
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **aegis2.0** | Web application for security and system monitoring | JavaScript, Node.js | [Repository](https://github.com/pallavi15x/aegis2.0) |
+| **Save-a-Life** | Emergency response and community aid platform | JavaScript, HTML/CSS | [Repository](https://github.com/pallavi15x/Save-a-Life) |
+| **personal-portfolio** | Modern interactive personal portfolio website | TypeScript, HTML | [Repository](https://github.com/pallavi15x/personal-portfolio) |
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pallavi15x&label=SCAN_COUNT&color=00D4FF&style=flat-square" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=60&section=footer" width="100%" />
-</div>
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### **Tools & Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/pallavi-kumari-9864b8380" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pallavikumari15102007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
