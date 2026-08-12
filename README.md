@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 3D Waving Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7000FF&height=220&section=header&text=PALLAVI%20KUMARI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="3D Header Banner" />
+<!-- 3D Cyber Capsule Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=PALLAVI%20KUMARI&fontSize=50&fontColor=00F0FF&animation=fadeIn&stroke=00F0FF&strokeWidth=1" width="100%" alt="3D Header Banner" />
 
 `FULL-STACK DEVELOPER` • `SOFTWARE ARCHITECT` • `SECURITY & SYSTEMS`
 
