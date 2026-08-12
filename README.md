@@ -16,11 +16,7 @@
 
 ### 💻 System Overview
 
-```text
-├── Name       : Pallavi Kumari
-├── Focus      : Full-Stack Engineering, Security & Systems
-├── OS         : Linux / Windows
-└── Philosophy : "Writing code, breaking it, debugging it — becoming better with every fix."
+
 
 
 
