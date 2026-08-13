@@ -83,3 +83,6 @@
 
 </div>
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=pallavi15x&color=blue&style=flat)
+
