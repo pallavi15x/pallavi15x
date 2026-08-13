@@ -77,9 +77,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavikumari15102007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=firefox&logoColor=black)](https://github.com/pallavi15x/personal-portfolio)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pallavi15x&color=00f0ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
