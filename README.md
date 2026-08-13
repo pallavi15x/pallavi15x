@@ -14,6 +14,11 @@
 
 <br/><br/>
 
+<!-- Profile Views Counter Badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=pallavi15x&color=00f0ff&style=flat-square&label=PROFILE+VIEWS)
+
+<br/><br/>
+
 <!-- Trophy Cabinet -->
 <img src="https://github-profile-trophies.vercel.app/?username=pallavi15x&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Trophies" />
 
@@ -81,5 +86,4 @@
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=pallavi15x&color=blue&style=flat)
 
